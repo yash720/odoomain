@@ -3,7 +3,7 @@
 A full-stack application for swapping clothing items with a points-based system.
 
 
-Deployement link-odoofrontend.vercel.app,https://odoobackend-fdgh.onrender.com
+Deployement link- odoofrontend.vercel.app
 
 ## Project Structure
 
